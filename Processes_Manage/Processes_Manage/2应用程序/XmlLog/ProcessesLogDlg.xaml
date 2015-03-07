@@ -1,0 +1,39 @@
+﻿<Window x:Class="Processes_Manage.ProcessesLogDlg"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:xcdg="http://schemas.xceed.com/wpf/xaml/datagrid"
+    WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" Name="LogWindow"
+    WindowStyle="ToolWindow"
+    Topmost="True"
+    Title=">>软件使用历史-" Height="680" Width="900"
+        Background="DarkGray">
+    <Window.Resources>
+        <Style TargetType="xcdg:DataGridControl">
+            <Setter Property="Height" Value="50"/>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="3,3,3,2">
+        <xcdg:DataGridControl HorizontalAlignment="Center" Name="dataGridControl" VerticalAlignment="Top"
+                              ReadOnly="True"   Height="{Binding ElementName=LogWindow,Path=Height}">
+            <xcdg:DataGridControl.View>
+                <xcdg:TableView UseDefaultHeadersFooters="False">
+                    <xcdg:TableView.FixedHeaders>
+                        <DataTemplate>
+                            <xcdg:HierarchicalGroupByControl xcdg:TableView.CanScrollHorizontally="False" NoGroupContent="拖拽一个列头到此处进行分组" Width="850" />
+                        </DataTemplate>
+                        <DataTemplate>
+                            <xcdg:ColumnManagerRow />
+                        </DataTemplate>
+                    </xcdg:TableView.FixedHeaders>
+                </xcdg:TableView>
+            </xcdg:DataGridControl.View>
+            <xcdg:DataGridControl.Columns>
+                <xcdg:Column FieldName="ProcessName" Width="190" Visible="True" Title="进程名" IsMainColumn="True" />
+                <xcdg:Column FieldName="MainTitle" Width="250" Title="窗口名"/>
+                <xcdg:Column FieldName="UsingTime" Title="使用时间"/>
+                <xcdg:Column FieldName="StartDate" Title="使用日期"/>
+                <xcdg:Column FieldName="StartTime" Title="启动时间"/>
+            </xcdg:DataGridControl.Columns>
+        </xcdg:DataGridControl>
+    </Grid>
+</Window>

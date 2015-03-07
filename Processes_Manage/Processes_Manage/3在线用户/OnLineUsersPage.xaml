@@ -1,0 +1,91 @@
+﻿<Page x:Class="Processes_Manage.OnLineUsersPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="clr-namespace:Processes_Manage"
+      Loaded="Page_Loaded" Background="Gray">
+    <Page.Resources>
+        <Style TargetType="ListViewItem">
+            <Setter Property="Height" Value="48"/>
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ListBoxItem">
+                        <Border Name="Border" Margin="-3,0,1,0" Padding="0,3,0,3"
+                  SnapsToDevicePixels="True" Background="{TemplateBinding Background}">
+                            <StackPanel Orientation="Horizontal">
+                                <GridViewRowPresenter VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsSelected" Value="true">
+                                <Setter TargetName="Border" Property="Background">
+                                    <Setter.Value>
+                                        <LinearGradientBrush EndPoint="0.5,0" StartPoint="0.5,1">
+                                            <GradientStop Color="#fdd903" Offset="0" />
+                                            <GradientStop Color="#fdd903" Offset="0.2" />
+                                            <GradientStop Color="#fcd704" Offset="0.4"/>
+                                            <GradientStop Color="#fbd70b" Offset="0.7"/>
+                                            <GradientStop Color="#f2c722" Offset="1"/>
+                                        </LinearGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                                <Setter TargetName="Border" Property="CornerRadius" Value="2"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="false">
+                                <Setter Property="Foreground" Value="#888"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="Margin" Value="5,5,15,5"/>
+        </Style>
+        <DataTemplate x:Key="ImageCell">
+            <Image Source="window.png"/>
+        </DataTemplate>
+        <DataTemplate x:Key="ExcButtonCell">
+            <Button Click="LookOver_Button_Click" Width="120">查看截图</Button>
+        </DataTemplate>
+        <local:CtrEnabledConverter x:Key="ctrEnabled"/>
+    </Page.Resources>
+    <Border BorderBrush="White" BorderThickness="1" Width="920">
+        <Grid Margin="3,3,3,3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="8*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,0,50,0">
+                <Button Name="connectServer_Button" Click="connectServer_Button_Click">连接服务器</Button>
+                <Button Name="readUsers_Button" Click="readUsers_Button_Click"
+                    IsEnabled="False">查看在线用户</Button>
+            </StackPanel>
+            <Border  Grid.Row="1" Margin="10,8,10,10" BorderBrush="Gray" BorderThickness="2" CornerRadius="3,3,3,3">
+                <ListView Name="usersListView" SelectionMode="Single" Background="DarkGray">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="-用户-" Width="66" CellTemplate="{StaticResource ImageCell}"/>
+                            <GridViewColumn Header="-选择-" Width="50" CellTemplate="{StaticResource CheckBoxCell}"/>
+                            <GridViewColumn Header="-用户名-" Width="120" DisplayMemberBinding="{Binding UserName}"/>
+                            <GridViewColumn Header="-用户状态-" Width="100" DisplayMemberBinding="{Binding IsOnline}"/>
+                            <GridViewColumn Header="-异常数-" Width="50" DisplayMemberBinding="{Binding ExceptionNum}"/>
+                            <GridViewColumn Header="-用户mac-" Width="150" DisplayMemberBinding="{Binding UserMac}"/>
+                            <GridViewColumn Header="-查看异常-" Width="160" CellTemplate="{StaticResource ExcButtonCell}"/>
+                            <GridViewColumn Header="-控制操作-" Width="160">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <Button Width="120" Click="UserManage_Button_Click" 
+                                                IsEnabled="{Binding Path=IsOnline,Converter={StaticResource ctrEnabled}}">远程控制</Button>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </Border>
+        </Grid>
+    </Border>
+</Page>

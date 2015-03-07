@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0AB7BB56-D3E8-476C-B597-575B2309638A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Processes_Manage</RootNamespace>
+    <AssemblyName>Processes_Manage</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <ApplicationIcon>Process.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="2应用程序\XmlLog\ProcessesList.cs" />
+    <Compile Include="2应用程序\XmlLog\ProcessesLogDlg.xaml.cs">
+      <DependentUpon>ProcessesLogDlg.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="2应用程序\XmlLog\XLINQ Extensions.cs" />
+    <Compile Include="2应用程序\XmlLog\XMLFileOperations.cs" />
+    <Compile Include="3在线用户\ControlUserWindow.xaml.cs">
+      <DependentUpon>ControlUserWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="3在线用户\CtrEnabledConverter.cs" />
+    <Compile Include="3在线用户\SensitiveProcess.cs" />
+    <Compile Include="3在线用户\UserInfo.cs" />
+    <Compile Include="3在线用户\通讯管理\ClientSocket.cs" />
+    <Compile Include="3在线用户\通讯管理\SocketFunc.cs" />
+    <Compile Include="5系统进程\SingleProcessMemoryLine.xaml.cs">
+      <DependentUpon>SingleProcessMemoryLine.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5系统进程\SingleProcessCpuLine.xaml.cs">
+      <DependentUpon>SingleProcessCpuLine.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="6设置\HotKey.cs" />
+    <Compile Include="6设置\MyKeys.cs" />
+    <Compile Include="6设置\SetWindow.xaml.cs">
+      <DependentUpon>SetWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="系统管理类\SystemInfoHelper.cs" />
+    <Compile Include="CpuMemoryLinesDlg\SystemCpuUsageLineDlg.xaml.cs">
+      <DependentUpon>SystemCpuUsageLineDlg.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CpuMemoryLinesDlg\SystemMemoryUsageLineDlg.xaml.cs">
+      <DependentUpon>SystemMemoryUsageLineDlg.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="2应用程序\SoftWareAppPage.xaml.cs">
+      <DependentUpon>SoftWareAppPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="4系统信息\SystemInfoPage.xaml.cs">
+      <DependentUpon>SystemInfoPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="1首页\FirstPage.xaml.cs">
+      <DependentUpon>FirstPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5系统进程\ProcessesViewPage.xaml.cs">
+      <DependentUpon>ProcessesViewPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="3在线用户\OnLineUsersPage.xaml.cs">
+      <DependentUpon>OnLineUsersPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="2应用程序\TopWinProcessInfo.cs" />
+    <Compile Include="5系统进程\Process_Info.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="4系统信息\SystemInfo.cs" />
+    <Compile Include="4系统信息\MethodInvoker.cs" />
+    <Compile Include="5系统进程\ValueConverter\BackgroundConverter.cs" />
+    <Compile Include="5系统进程\ValueConverter\MemoryConverter.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <ReferencePath Include="..\..\Processes_Manage2008_5.3.8beta2\Processes_Manage\bin\Debug\DynamicDataDisplay.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\PresentationCore.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\PresentationFramework.dll" />
+    <ReferencePath Include="C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.configuration.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Data.DataSetExtensions.dll" />
+    <ReferencePath Include="C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Data.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Data.Linq.dll" />
+    <ReferencePath Include="C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll" />
+    <ReferencePath Include="C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Management.dll" />
+    <ReferencePath Include="C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Windows.Forms.dll" />
+    <ReferencePath Include="C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Xml.Linq.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\UIAutomationProvider.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\UIAutomationTypes.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\WindowsBase.dll" />
+    <ReferencePath Include="..\..\Processes_Manage2008_5.3.8beta2\Processes_Manage\bin\Debug\Xceed.Wpf.DataGrid.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="C:\Users\Administrator\Desktop\项目制作\制作\Processes_Manage\Processes_Manage\obj\Debug\2应用程序\XmlLog\ProcessesLogDlg.g.cs" />
+    <Compile Include="C:\Users\Administrator\Desktop\项目制作\制作\Processes_Manage\Processes_Manage\obj\Debug\3在线用户\ControlUserWindow.g.cs" />
+    <Compile Include="C:\Users\Administrator\Desktop\项目制作\制作\Processes_Manage\Processes_Manage\obj\Debug\5系统进程\SingleProcessMemoryLine.g.cs" />
+    <Compile Include="C:\Users\Administrator\Desktop\项目制作\制作\Processes_Manage\Processes_Manage\obj\Debug\5系统进程\SingleProcessCpuLine.g.cs" />
+    <Compile Include="C:\Users\Administrator\Desktop\项目制作\制作\Processes_Manage\Processes_Manage\obj\Debug\6设置\SetWindow.g.cs" />
+    <Compile Include="C:\Users\Administrator\Desktop\项目制作\制作\Processes_Manage\Processes_Manage\obj\Debug\CpuMemoryLinesDlg\SystemCpuUsageLineDlg.g.cs" />
+    <Compile Include="C:\Users\Administrator\Desktop\项目制作\制作\Processes_Manage\Processes_Manage\obj\Debug\CpuMemoryLinesDlg\SystemMemoryUsageLineDlg.g.cs" />
+    <Compile Include="C:\Users\Administrator\Desktop\项目制作\制作\Processes_Manage\Processes_Manage\obj\Debug\MainWindow.g.cs" />
+    <Compile Include="C:\Users\Administrator\Desktop\项目制作\制作\Processes_Manage\Processes_Manage\obj\Debug\2应用程序\SoftWareAppPage.g.cs" />
+    <Compile Include="C:\Users\Administrator\Desktop\项目制作\制作\Processes_Manage\Processes_Manage\obj\Debug\4系统信息\SystemInfoPage.g.cs" />
+    <Compile Include="C:\Users\Administrator\Desktop\项目制作\制作\Processes_Manage\Processes_Manage\obj\Debug\1首页\FirstPage.g.cs" />
+    <Compile Include="C:\Users\Administrator\Desktop\项目制作\制作\Processes_Manage\Processes_Manage\obj\Debug\5系统进程\ProcessesViewPage.g.cs" />
+    <Compile Include="C:\Users\Administrator\Desktop\项目制作\制作\Processes_Manage\Processes_Manage\obj\Debug\3在线用户\OnLineUsersPage.g.cs" />
+    <Compile Include="C:\Users\Administrator\Desktop\项目制作\制作\Processes_Manage\Processes_Manage\obj\Debug\App.g.cs" />
+    <Compile Include="C:\Users\Administrator\Desktop\项目制作\制作\Processes_Manage\Processes_Manage\obj\Debug\GeneratedInternalTypeHelper.g.cs" />
+  </ItemGroup>
+</Project>

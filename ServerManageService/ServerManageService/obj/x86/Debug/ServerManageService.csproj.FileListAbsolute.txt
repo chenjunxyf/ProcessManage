@@ -1,0 +1,9 @@
+E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\x86\Debug\ServerManageService.exe.config
+E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\x86\Debug\UsersManage.mdb
+E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\x86\Debug\ServerManageService.exe
+E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\x86\Debug\ServerManageService.pdb
+E:\STiTP项目\项目重构\ServerManageService\ServerManageService\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\STiTP项目\项目重构\ServerManageService\ServerManageService\obj\x86\Debug\ServerManageService.ProjectInstaller.resources
+E:\STiTP项目\项目重构\ServerManageService\ServerManageService\obj\x86\Debug\ServerManageService.csproj.GenerateResource.Cache
+E:\STiTP项目\项目重构\ServerManageService\ServerManageService\obj\x86\Debug\ServerManageService.exe
+E:\STiTP项目\项目重构\ServerManageService\ServerManageService\obj\x86\Debug\ServerManageService.pdb

@@ -1,0 +1,33 @@
+﻿<Window x:Class="Processes_Manage.SystemCpuUsageLineDlg"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:linedll="http://research.microsoft.com/DynamicDataDisplay/1.0"
+    Title="系统CPU使用率曲线" WindowStyle="None" KeyDown="Window_KeyDown"
+        Loaded="Window_Loaded"
+        WindowStartupLocation="CenterOwner"
+        WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="系统 CPU 使用曲线图" Margin="20,10,0,0"
+                       FontSize="15" FontWeight="Bold"/>
+            <TextBlock x:Name="cpuUsageText" Margin="10,10,0,0"
+                       FontSize="15"/>
+        </StackPanel>
+        <linedll:ChartPlotter x:Name="plotter" Margin="10,10,20,10" Grid.Row="1">
+            <linedll:ChartPlotter.VerticalAxis>
+                <linedll:VerticalIntegerAxis/>
+            </linedll:ChartPlotter.VerticalAxis>
+
+            <linedll:ChartPlotter.HorizontalAxis>
+                <linedll:HorizontalIntegerAxis/>
+            </linedll:ChartPlotter.HorizontalAxis>
+
+            <linedll:Header Content="CPU Performance History"/>
+            <linedll:VerticalAxisTitle Content="Percentage"/>
+        </linedll:ChartPlotter>
+    </Grid>
+</Window>

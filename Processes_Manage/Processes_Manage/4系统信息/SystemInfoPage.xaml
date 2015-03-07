@@ -1,0 +1,54 @@
+﻿<Page x:Class="Processes_Manage.SystemInfoPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:local="clr-namespace:Processes_Manage"
+      FontFamily="Times New Roman" Background="DarkGray"
+      >
+    <Page.Resources>
+        <local:MethodInvoker x:Key="methodInvoker"/>
+        <DataTemplate x:Key="dataTemplate">
+            <StackPanel Margin="2">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="{Binding}" />
+                    <TextBlock Text=":"/>
+                </StackPanel>
+                <TextBlock FontWeight="Bold" Text="{Binding Converter={StaticResource methodInvoker}}"/>
+            </StackPanel>
+        </DataTemplate>
+        
+        <Style TargetType="ListBoxItem">
+            <Setter Property="ContentTemplate" Value="{StaticResource dataTemplate}"/>
+        </Style>
+    </Page.Resources>
+    <Border BorderBrush="White" BorderThickness="1">
+        <Grid>
+            <StackPanel>
+                <HeaderedContentControl Header="Windows信息">
+                    <ItemsControl FontSize="14">
+                        <ListBoxItem>Windows名称</ListBoxItem>
+                        <ListBoxItem>Windows版本</ListBoxItem>
+                        <ListBoxItem>系统目录</ListBoxItem>
+                        <ListBoxItem>ServicePack</ListBoxItem>
+                    </ItemsControl>
+                </HeaderedContentControl>
+
+                <HeaderedContentControl Header="系统信息">
+                    <ItemsControl FontSize="14">
+                        <ListBoxItem>处理器</ListBoxItem>
+                        <ListBoxItem>处理器架构</ListBoxItem>
+                        <ListBoxItem>物理内存</ListBoxItem>
+                        <ListBoxItem>显卡名称</ListBoxItem>
+                    </ItemsControl>
+                </HeaderedContentControl>
+
+                <HeaderedContentControl Header="计算机名称，用户信息">
+                    <ItemsControl FontSize="14">
+                        <ListBoxItem>用户名</ListBoxItem>
+                        <ListBoxItem>计算机名称</ListBoxItem>
+                        <ListBoxItem>工作组</ListBoxItem>
+                    </ItemsControl>
+                </HeaderedContentControl>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Page>

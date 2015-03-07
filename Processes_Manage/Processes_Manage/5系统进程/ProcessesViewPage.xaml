@@ -1,0 +1,119 @@
+﻿<Page x:Class="Processes_Manage.ProcessesViewPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Processes_Manage"
+    FontFamily="Times New Roman" Background="DarkGray">
+    <Page.Resources>
+        <local:MemoryConverter x:Key="memoryConverter"/>
+        
+        <!--降序图标-->
+        <DataTemplate x:Key="HeaderTemplateArrowUp">
+            <DockPanel>
+                <TextBlock HorizontalAlignment="Center" Text="{Binding}"/>
+                <Path x:Name="arrow"
+                      StrokeThickness="1"
+                      Fill="Gray"
+                      Data="M 5,10 L 15,10 L 10,5 L 5,10"/>
+            </DockPanel>
+        </DataTemplate>
+        <!--升序图标-->
+        <DataTemplate x:Key="HeaderTemplateArrowDown">
+            <DockPanel>
+                <TextBlock HorizontalAlignment="Center" Text="{Binding}"/>
+                <Path x:Name="arrow"
+                      StrokeThickness="1"
+                      Fill="Gray"
+                      Data="M 5,5 L 10,10 L15,5 L 5,5"/>
+            </DockPanel>
+        </DataTemplate>
+
+        <!--ListViewItemStyle-->
+        <local:BackgroundConverter x:Key="AlternateBackgroundConverter"/>
+        <Style x:Key="ListViewAlternateItemStyle" TargetType="{x:Type ListViewItem}">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="SnapsToDevicePixels" Value="true"/>
+            <Setter Property="OverridesDefaultStyle" Value="true"/>
+            <Setter Property="Background">
+                <Setter.Value>
+                    <Binding RelativeSource="{RelativeSource Self}" 
+                 Converter="{StaticResource AlternateBackgroundConverter}"/>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ListBoxItem">
+                        <Border Name="Border" Margin="-3,0,1,0" Padding="0,3,0,3"
+                  SnapsToDevicePixels="True" Background="{TemplateBinding Background}">
+                            <StackPanel Orientation="Horizontal">
+                                <GridViewRowPresenter VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsSelected" Value="true">
+                                <Setter TargetName="Border" Property="Background">
+                                    <Setter.Value>
+                                        <LinearGradientBrush EndPoint="0.5,0" StartPoint="0.5,1">
+                                            <GradientStop Color="#fdd903" Offset="0" />
+                                            <GradientStop Color="#fdd903" Offset="0.2" />
+                                            <GradientStop Color="#fcd704" Offset="0.4"/>
+                                            <GradientStop Color="#fbd70b" Offset="0.7"/>
+                                            <GradientStop Color="#f2c722" Offset="1"/>
+                                        </LinearGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                                <Setter TargetName="Border" Property="CornerRadius" Value="2"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="false">
+                                <Setter Property="Foreground" Value="#888"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+    
+    <Border BorderThickness="1" BorderBrush="White" Margin="1,1,1,1" Height="510" Width="900">
+        <Grid VerticalAlignment="Top" HorizontalAlignment="Left" Margin="3,3,3,3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="9*"/>
+                <ColumnDefinition Width="1.5*"/>
+            </Grid.ColumnDefinitions>
+            <Border BorderBrush="Gray" BorderThickness="1" Grid.Column="0">
+                <ListView Name="allProcessesListView" SelectionMode="Single" HorizontalAlignment="Center" VerticalAlignment="Top" 
+                      ItemsSource="{Binding}" TextSearch.TextPath="Name"
+                      GridViewColumnHeader.Click="allProcessesListView_Click" ItemContainerStyle="{DynamicResource ListViewAlternateItemStyle}">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="-选择-" Width="33" CellTemplate="{StaticResource CheckBoxCell}"/>
+                            <GridViewColumn Header="-进程名称-" Width="220" DisplayMemberBinding="{Binding Path=Name}"/>
+                            <GridViewColumn Header="-进程ID号-" Width="100" DisplayMemberBinding="{Binding Path=ID}"/>
+                            <GridViewColumn Header="-占用内存(K)-" Width="130" 
+                                        DisplayMemberBinding="{Binding Path=PrivateMemorySize64,Converter={StaticResource memoryConverter}}"/>
+                            <GridViewColumn Header="-优先级-" Width="100" DisplayMemberBinding="{Binding Path=BasePriority}"/>
+                            <GridViewColumn Header="-当前状态-" Width="130" DisplayMemberBinding="{Binding Path=State}"/>
+                        </GridView>
+                    </ListView.View>
+                    <ListView.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="_打开文件位置" Click="OpenFilePath_Click"/>
+                            <MenuItem Header="_内存曲线" Click="MemoryLine_Click"/>
+                            <MenuItem Header="_cpu曲线" Click="singleCpuRate_Click"/>
+                            <MenuItem Header="_结束进程" Click="KillProcess_Click"/>
+                        </ContextMenu>
+                    </ListView.ContextMenu>
+                </ListView>
+            </Border>
+            <Border Grid.Column="1">
+                <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <Button Content="CPU曲线" ToolTip="查看进程的cpu曲线图"  Name="pCpuRateChart_Button"
+                        Click="singleCpuRate_Click" Style="{StaticResource ResourceKey=EllipseButton}" Margin="25,0,0,20"/>
+                    <Button Content="内存曲线" ToolTip="查看进程内存曲线图" Name="pMemoryChart_Button"
+                        Click="MemoryLine_Click" Style="{StaticResource ResourceKey=EllipseButton}" Margin="25,0,0,20"/>
+                    <Button Content="关闭进程" ToolTip="关闭进程" Name="pKill_Button"
+                        Click="KillProcess_Click" Style="{StaticResource ResourceKey=EllipseButton}" Margin="25,0,0,0"/>
+                </StackPanel>
+            </Border>
+        </Grid>
+    </Border>
+</Page>

@@ -1,0 +1,8 @@
+E:\STiTP项目\项目重构\ProcessesManageService\ProcessesManageService\bin\Debug\ProcessesManageService.exe
+E:\STiTP项目\项目重构\ProcessesManageService\ProcessesManageService\bin\Debug\ProcessesManageService.pdb
+E:\STiTP项目\项目重构\ProcessesManageService\ProcessesManageService\obj\Debug\ResolveAssemblyReference.cache
+E:\STiTP项目\项目重构\ProcessesManageService\ProcessesManageService\obj\Debug\ProcessesManageService.ProjectInstaller.resources
+E:\STiTP项目\项目重构\ProcessesManageService\ProcessesManageService\obj\Debug\ProcessesManageService.csproj.GenerateResource.Cache
+E:\STiTP项目\项目重构\ProcessesManageService\ProcessesManageService\obj\Debug\ProcessesManageService.exe
+E:\STiTP项目\项目重构\ProcessesManageService\ProcessesManageService\obj\Debug\ProcessesManageService.pdb
+E:\STiTP项目\项目重构\ProcessesManageService\ProcessesManageService\bin\Debug\ProcessesManageService.exe.config

@@ -1,0 +1,721 @@
+﻿正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+试图停止服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+试图停止服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装程序集“C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = C:\Users\Administrator\Desktop\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在卸载程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在移除 EventLog 源 ServerManageService。
+正在从系统中移除服务 ServerManageService...
+已成功地从系统中移除服务 ServerManageService。
+正在安装程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
+正在安装服务 ServerManageService...
+已成功安装服务 ServerManageService。
+正在日志 Application 中创建 EventLog 源 ServerManageService...
+正在提交程序集“E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.exe
+   logfile = E:\STiTP项目\项目重构\ServerManageService\ServerManageService\bin\Debug\ServerManageService.InstallLog
